@@ -17,10 +17,11 @@ To write a program to implement the simple linear regression model for predictin
 
 ## Program:
 ```
-/*
 Program to implement the simple linear regression model for predicting the marks scored.
 Developed by: Dharshini D.S 
 RegisterNumber: 212221230022  
+```
+```
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -50,7 +51,6 @@ plt.plot(X_train,regressor.predict(X_train),color="brown![Screenshot (10)](https
 plt.xlabel("Hours")
 plt.ylabel("Scores")
 plt.show()
-*/
 ```
 
 ## Output:
